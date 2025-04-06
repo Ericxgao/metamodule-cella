@@ -1,40 +1,28 @@
 {
     "MetaModulePluginMaintainer": "oksami",
     "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
-    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-seaside-modular",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-cella",
     "MetaModuleDescription": "Seaside Modular ported for MetaModule",
     "MetaModuleIncludedModules": [
         {
-            "slug": "META",
-            "name": "META"
+            "slug": "Resonators",
+            "name": "Resonators"
         },
         {
-            "slug": "SYNC",
-            "name": "SYNC"
+            "slug": "TwinPeaks",
+            "name": "Twin Peaks"
         },
         {
-            "slug": "SCANNER",
-            "name": "SCANNER"
+            "slug": "Euler",
+            "name": "Euler"
         },
         {
-            "slug": "GATESEQ",
-            "name": "GATESEQ"
+            "slug": "Rich",
+            "name": "Rich"
         },
         {
-            "slug": "ATSR",
-            "name": "ATSR"
-        },
-        {
-            "slug": "OSC3",
-            "name": "OSC3"
-        },
-        {
-            "slug": "SYNC3",
-            "name": "SYNC3"
-        },
-        {
-            "slug": "SYNC3XL",
-            "name": "SYNC3XL"
-        },
+            "slug": "Bezier",
+            "name": "Bezier"
+        }
     ]
 }
