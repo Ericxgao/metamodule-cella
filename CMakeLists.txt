@@ -53,8 +53,15 @@ target_link_options(Cella PRIVATE
 )
 
 # Source files
-file(GLOB_RECURSE CELLA_SOURCES
-    "${SOURCE_DIR}/src/*.cpp"
+set(CELLA_SOURCES
+    "${SOURCE_DIR}/src/plugin.cpp"
+    "${SOURCE_DIR}/src/CognitiveShift.cpp"
+    "${SOURCE_DIR}/src/Resonators.cpp"
+    "${SOURCE_DIR}/src/Rich.cpp"
+    "${SOURCE_DIR}/src/TwinPeaks.cpp"
+    "${SOURCE_DIR}/src/Bezier.cpp"
+    "${SOURCE_DIR}/src/Bytebeat.cpp"
+    "${SOURCE_DIR}/src/Euler.cpp"
 )
 
 file(GLOB_RECURSE FILTER_SOURCES
