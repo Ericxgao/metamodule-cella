@@ -23,6 +23,18 @@
         {
             "slug": "Bezier",
             "name": "Bezier"
+        },
+        {
+            "slug": "CognitiveShift",
+            "name": "Cognitive Shift"
+        },
+        {
+            "slug": "LoudnessMeter",
+            "name": "Loudness Meter"
+        },
+        {
+            "slug": "Loud",
+            "name": "Loud"
         }
     ]
 }
