@@ -62,6 +62,8 @@ set(CELLA_SOURCES
     "${SOURCE_DIR}/src/Bezier.cpp"
     "${SOURCE_DIR}/src/Bytebeat.cpp"
     "${SOURCE_DIR}/src/Euler.cpp"
+    "${SOURCE_DIR}/src/Integral.cpp"
+    "${SOURCE_DIR}/src/2State.cpp"
 )
 
 file(GLOB_RECURSE FILTER_SOURCES

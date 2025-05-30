@@ -29,12 +29,12 @@
             "name": "Cognitive Shift"
         },
         {
-            "slug": "LoudnessMeter",
-            "name": "Loudness Meter"
+            "slug": "Integral",
+            "name": "Integral"
         },
         {
-            "slug": "Loud",
-            "name": "Loud"
+            "slug": "2State",
+            "name": "2State"
         }
     ]
 }
